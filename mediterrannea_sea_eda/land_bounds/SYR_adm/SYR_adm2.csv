@@ -1,0 +1,61 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,224,"SYR","Syria",1,"Al <U+1E24>asakah",1,"Al-Hasakah","Mantika","District",NA,NA
+2,224,"SYR","Syria",1,"Al <U+1E24>asakah",2,"Al-Malikiyah","Mantika","District",NA,NA
+3,224,"SYR","Syria",1,"Al <U+1E24>asakah",3,"Al Qamishli","Mantika","District",NA,NA
+4,224,"SYR","Syria",1,"Al <U+1E24>asakah",4,"Ra's al-'Ayn","Mantika","District",NA,NA
+5,224,"SYR","Syria",2,"Aleppo",5,"'Ayn al-'Arab","Mantika","District",NA,NA
+6,224,"SYR","Syria",2,"Aleppo",6,"A'zaz","Mantika","District",NA,NA
+7,224,"SYR","Syria",2,"Aleppo",7,"Afrin","Mantika","District",NA,NA
+8,224,"SYR","Syria",2,"Aleppo",8,"Al Bab","Mantika","District",NA,NA
+9,224,"SYR","Syria",2,"Aleppo",9,"As-Safirah","Mantika","District",NA,NA
+10,224,"SYR","Syria",2,"Aleppo",10,"Jabal Sam'an","Mantika","District",NA,NA
+11,224,"SYR","Syria",2,"Aleppo",11,"Jarabulus","Mantika","District",NA,NA
+12,224,"SYR","Syria",2,"Aleppo",12,"Manbij","Mantika","District",NA,NA
+13,224,"SYR","Syria",3,"Ar Raqqah",13,"Ar-Raqqah","Mantika","District",NA,NA
+14,224,"SYR","Syria",3,"Ar Raqqah",14,"Ath-Thawrah","Mantika","District",NA,NA
+15,224,"SYR","Syria",3,"Ar Raqqah",15,"Tal Abyad","Mantika","District",NA,NA
+16,224,"SYR","Syria",4,"As Suwayda'",16,"As-Suwayda","Mantika","District",NA,NA
+17,224,"SYR","Syria",4,"As Suwayda'",17,"Salkhad","Mantika","District",NA,NA
+18,224,"SYR","Syria",4,"As Suwayda'",18,"Shahba","Mantika","District",NA,NA
+19,224,"SYR","Syria",5,"Damascus",19,"Damascus","Mantika","District",NA,NA
+20,224,"SYR","Syria",6,"Dar`a",20,"As-Sanamayn","Mantika","District",NA,NA
+21,224,"SYR","Syria",6,"Dar`a",21,"Daraa","Mantika","District",NA,NA
+22,224,"SYR","Syria",6,"Dar`a",22,"Izra'","Mantika","District",NA,NA
+23,224,"SYR","Syria",7,"Dayr Az Zawr",23,"Abu Kamal","Mantika","District",NA,NA
+24,224,"SYR","Syria",7,"Dayr Az Zawr",24,"Deir ez-Zor","Mantika","District",NA,NA
+25,224,"SYR","Syria",7,"Dayr Az Zawr",25,"Mayadin","Mantika","District",NA,NA
+26,224,"SYR","Syria",8,"Hamah",26,"As-Suqaylabiyah","Mantika","District",NA,NA
+27,224,"SYR","Syria",8,"Hamah",27,"Hama","Mantika","District",NA,NA
+28,224,"SYR","Syria",8,"Hamah",28,"Masyaf","Mantika","District",NA,NA
+29,224,"SYR","Syria",8,"Hamah",29,"Muhardeh","Mantika","District",NA,NA
+30,224,"SYR","Syria",8,"Hamah",30,"Salamiyah","Mantika","District",NA,NA
+31,224,"SYR","Syria",9,"Hims",31,"Al-Mukharram","Mantika","District",NA,NA
+32,224,"SYR","Syria",9,"Hims",32,"Al-Qusayr","Mantika","District",NA,NA
+33,224,"SYR","Syria",9,"Hims",33,"Ar-Rastan","Mantika","District",NA,NA
+34,224,"SYR","Syria",9,"Hims",34,"Hims","Mantika","District",NA,NA
+35,224,"SYR","Syria",9,"Hims",35,"Palmyra","Mantika","District",NA,NA
+36,224,"SYR","Syria",9,"Hims",36,"Talkalakh","Mantika","District",NA,NA
+37,224,"SYR","Syria",10,"Idlib",37,"Arihah","Mantika","District",NA,NA
+38,224,"SYR","Syria",10,"Idlib",38,"Harem","Mantika","District",NA,NA
+39,224,"SYR","Syria",10,"Idlib",39,"Idlib","Mantika","District",NA,NA
+40,224,"SYR","Syria",10,"Idlib",40,"Jisr ash-Shugur","Mantika","District",NA,NA
+41,224,"SYR","Syria",10,"Idlib",41,"Ma'arrat al-Numan","Mantika","District",NA,NA
+42,224,"SYR","Syria",11,"Lattakia",42,"Al-Haffah","Mantika","District",NA,NA
+43,224,"SYR","Syria",11,"Lattakia",43,"Jableh","Mantika","District",NA,NA
+44,224,"SYR","Syria",11,"Lattakia",44,"Latakia","Mantika","District",NA,NA
+45,224,"SYR","Syria",11,"Lattakia",45,"Qardaha","Mantika","District",NA,NA
+46,224,"SYR","Syria",12,"Quneitra",46,"Quneitra","Mantika","District",NA,NA
+47,224,"SYR","Syria",13,"Rif Dimashq",47,"Al-Qutayfah","Mantika","District",NA,NA
+48,224,"SYR","Syria",13,"Rif Dimashq",48,"An-Nabk","Mantika","District",NA,NA
+49,224,"SYR","Syria",13,"Rif Dimashq",49,"At-Tall","Mantika","District",NA,NA
+50,224,"SYR","Syria",13,"Rif Dimashq",50,"Darayya","Mantika","District",NA,NA
+51,224,"SYR","Syria",13,"Rif Dimashq",51,"Duma","Mantika","District",NA,NA
+52,224,"SYR","Syria",13,"Rif Dimashq",52,"Markaz Rif Dimashq","Mantika","District",NA,NA
+53,224,"SYR","Syria",13,"Rif Dimashq",53,"Qatana","Mantika","District",NA,NA
+54,224,"SYR","Syria",13,"Rif Dimashq",54,"Yabrud","Mantika","District",NA,NA
+55,224,"SYR","Syria",13,"Rif Dimashq",55,"Zabadani","Mantika","District",NA,NA
+56,224,"SYR","Syria",14,"Tartus",56,"Ash-Shaykh Badr","Mantika","District",NA,NA
+57,224,"SYR","Syria",14,"Tartus",57,"Baniyas","Mantika","District",NA,NA
+58,224,"SYR","Syria",14,"Tartus",58,"Duraykish","Mantika","District",NA,NA
+59,224,"SYR","Syria",14,"Tartus",59,"Safita","Mantika","District",NA,NA
+60,224,"SYR","Syria",14,"Tartus",60,"Tartus","Mantika","District",NA,NA
